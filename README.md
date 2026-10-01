@@ -7,4 +7,4 @@ Análisis de la relación entre accidentes laborales registrados en industrias d
 
 ## 🔗 Enlaces Importantes
 * **Sitio Web Publicado (Netlify):** https://majestic-croissant-4d0e7d.netlify.app/
-* **Carpeta de Google Drive:** (https://drive.google.com/drive/folders/1G6WCSKH0CPTRFsAOH0lNzHME3e2D9DI3?usp=drive_link)
+* **Carpeta de Google Drive:** https://drive.google.com/drive/folders/1G6WCSKH0CPTRFsAOH0lNzHME3e2D9DI3?usp=drive_link
